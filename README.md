@@ -14,6 +14,6 @@ run npm i in both server and client
 make sure you have set .env files in the root directories of both so you can activate your own database
 
 ## Contribution
-Top 8 People who have used my app and helped me fix some bugs hehe:
-Ifra, Unnathi, Shivam, Himali, Riya, Sneha, Harshita, Rekha 
+Top 9 People who have used my app and helped me fix some bugs hehe:
+Ifra, Unnathi, Shivam, Himali, Riya, Sneha, Harshita, Rekha, Ujas
 
